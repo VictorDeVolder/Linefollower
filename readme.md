@@ -9,17 +9,17 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller:
+microcontroller: ATmega328 5V 16 MHz 
 <br />
-motors: 
+motors: Micro Metal Gearmotor HP 6V - 1,6 A - 50:1 
 <br />
-h-bridge:
+h-bridge: HALJIA DRV8833 1,5A 2 kanalen H-Bridge
 <br />
-sensors:
+sensors: QTR-8A reflectiesensorarray
 <br />
-batteries:
+batteries: 2x Quickstuff 18650 batterijen 
 <br />
-wireless communication:
+wireless communication: AZDelivery HC-05 Bluetooth module 
 <br />
 distance sensor - motors:
 <br />
