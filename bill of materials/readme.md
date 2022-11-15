@@ -17,4 +17,8 @@
 |        12| Weerstand | 220 ohm | recup | / | 1 | / |
 |        13| Weerstand | 1K ohm | recup | / | 4 | / |
 |        14| Aan/ uit schakelaar batterij| / | recup | / | 1 | / |
-|  Totaal  | € 69,95 |
+|        15| Bout & moer | M5x22mm | recup | / | 1 | / |
+|        16| Bout & moer | M2.5x14mm | recup | / | 6 | / |
+|        17| Onderstel | PLA | recup | / | 1 | / |
+|          |                             |   |       |   |Totaal | € 69,95 |
+
