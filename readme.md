@@ -4,6 +4,7 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
 <br />
 <br />
 [picture]
+![image](https://user-images.githubusercontent.com/115159137/204820827-11f8fefc-13ca-4c8e-9937-a2d05401acbf.png)
 <br />
 <br />
   
