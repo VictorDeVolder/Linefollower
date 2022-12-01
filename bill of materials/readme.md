@@ -3,7 +3,7 @@
 
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|--------------|------|---------|
-|         1| Micro Metal Gearmotor HP 6V |  1.6A - 50:1  | nieuw        |    € 7,49      |   2  |   € 14,98      |
+|         1| Micro motor N20-BT21 9V |  1000 rpm - 30:1  | nieuw        |    € 5,40      |   2  |   € 10,80      |
 |         2| 18650 batterijhouder dubbel |Lengte = 7,6cm; Breedte = 4,1cm; Hoogte = 2cm;| nieuw | € 1,39 | 1 | € 1,39 |
 |         3| 2x Quickstuff 18650 batterijen plus oplader |2x 18650 3,7V 3000 mah oplaadbare batterijen | nieuw | € 22,95 | 1 | € 22,95 |
 |         4| QTR-8A reflectiesensorarray - analoog - Pololu 960 | 8 sensoren; Analoog; Voedingsspanning: 5V of 3,3V | nieuw | € 11,91 | 1 | € 11,91 |
@@ -20,5 +20,5 @@
 |        15| Bout & moer | M5x22mm | recup | / | 1 | / |
 |        16| Bout & moer | M2.5x14mm | recup | / | 6 | / |
 |        17| Onderstel | PLA | recup | / | 1 | / |
-|          |                             |   |       |   |Totaal | € 69,95 |
+|          |                             |   |       |   |Totaal | € 65,77 |
 
