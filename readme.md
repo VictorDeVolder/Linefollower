@@ -24,7 +24,7 @@ wireless communication: AZDelivery HC-05 Bluetooth module
 <br />
 distance sensor - motors:
 <br />
-weight:
+weight: 210g
 <br />
-speed: 
+speed: 0,774 m/s 
 <br />
