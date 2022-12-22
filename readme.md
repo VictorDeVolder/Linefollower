@@ -1,7 +1,5 @@
 # LineFollower
 <br />
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
-<br />
 <br />
 [picture]
 ![image](https://user-images.githubusercontent.com/115159137/204820827-11f8fefc-13ca-4c8e-9937-a2d05401acbf.png)
@@ -12,7 +10,7 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
 <br />
 microcontroller: ATmega328 5V 16 MHz 
 <br />
-motors: Micro Metal Gearmotor HP 6V - 1,6 A - 50:1 
+motors: Micro motor N20-BT21 9V-30:1-1000rpm
 <br />
 h-bridge: HALJIA DRV8833 1,5A 2 kanalen H-Bridge
 <br />
