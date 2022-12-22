@@ -22,7 +22,7 @@ batteries: 2x Quickstuff 18650 batterijen
 <br />
 wireless communication: AZDelivery HC-05 Bluetooth module 
 <br />
-distance sensor - motors:
+distance sensor - motors: 12,5cm 
 <br />
 weight: 210g
 <br />
